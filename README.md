@@ -56,7 +56,7 @@
 ## Завершение работы
 Итоговый граф конденсации будет выглядить так:
 
-![graph (1)](https://github.com/user-attachments/assets/41d4cbfa-e4aa-4fea-8900-dbea99f3e28b)
+![graph (2)](https://github.com/user-attachments/assets/499c6946-3e50-4d05-87e4-2f01b55cc9c8)
 
 где вершина 5' — компонента сильной связности, в которую входили вершины 5, 6, 7, 8, 9, 10
 
